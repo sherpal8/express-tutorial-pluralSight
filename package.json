@@ -1,11 +1,18 @@
 {
-  "name": "express",
+  "name": "expresstutorial",
   "version": "1.0.0",
-  "description": "Code to build on understanding of node modules e.g. http and fs, as well as middleware e.g. express",
+  "description": "Code to build on understanding of node modules e.g. http and fs, as well as middleware e.g. expressjs. Also familiarity with nodemon and Insomnia for development purposes.",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0"
+  }
 }
