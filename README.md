@@ -1,7 +1,7 @@
 # express-tutorial-pluralSight
 
 To better understand the workings of express.js, middleware, routing, and nodemon.
-To better familiarise self with the workings of the Insominia app GUI.
+To better familiarise self with the workings of the Insomnia, a REST client app.
 
 ## Modalities/ technology/ API/ software used:
 
